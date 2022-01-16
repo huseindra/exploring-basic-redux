@@ -1,0 +1,26 @@
+{
+  "name": "exploring-basic-redux",
+  "version": "1.0.0",
+  "description": "I just want to exploring redux",
+  "main": "basic-redux.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huseindra/exploring-basic-redux.git"
+  },
+  "keywords": [
+    "redux",
+    "basic"
+  ],
+  "author": "Husein Indra Kusuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huseindra/exploring-basic-redux/issues"
+  },
+  "homepage": "https://github.com/huseindra/exploring-basic-redux#readme",
+  "dependencies": {
+    "redux": "^4.1.2"
+  }
+}
